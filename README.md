@@ -50,8 +50,8 @@
 
 ## Screenshots
 ![login Interface](CarTraderApp/Resources/loginscreenshot.png)
-![Admin Interface](CarTraderApp/images/adminDashbordScreenshot.png)
-![userDashbord Interface](CarTraderApp/images/userDashbordScreenshot.png)
-![notifucation Interface](CarTraderApp/images/notificationScreenshot.png)
-![buycar Interface](CarTraderApp/images/buyCarScreenshot.png)
+![Admin Interface](CarTraderApp/Resources/adminDashbordScreenshot.png)
+![userDashbord Interface](CarTraderApp/Resources/userDashbordScreenshot.png)
+![notifucation Interface](CarTraderApp/Resources/notificationScreenshot.png)
+![buycar Interface](CarTraderApp/Resources/buyCarScreenshot.png)
 
