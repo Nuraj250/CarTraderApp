@@ -49,9 +49,14 @@
 - `*.csproj`: Project file for configuring build settings.
 
 ## Screenshots
+- Login Interface
 ![login Interface](CarTraderApp/Resources/loginscreenshot.png)
+- Admin Dashbord
 ![Admin Interface](CarTraderApp/Resources/adminDashbordScreenshot.png)
+- User Dashbord
 ![userDashbord Interface](CarTraderApp/Resources/userDashbordScreenshot.png)
+- Notification
 ![notifucation Interface](CarTraderApp/Resources/notificationScreenshot.png)
+- Buy car 
 ![buycar Interface](CarTraderApp/Resources/buyCarScreenshot.png)
 
