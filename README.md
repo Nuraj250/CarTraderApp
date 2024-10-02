@@ -49,7 +49,10 @@
 - `*.csproj`: Project file for configuring build settings.
 
 ## Screenshots
-(You can add screenshots of the application interfaces)
+![login Interface](CarTraderApp/Resources/Screenshot(448).png)
+![Chatbot Interface](CarTraderApp/images/Screenshot.png)
+![Chatbot Interface](CarTraderApp/images/Screenshot.png)
+![Chatbot Interface](CarTraderApp/images/Screenshot.png)
 
 ## Contributing
 Please feel free to submit pull requests or open issues for improvements.
