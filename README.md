@@ -1,4 +1,4 @@
-# CarTraderApp
+**# CarTraderApp**
 
 ## Project Description
 **CarTraderApp** is a car trading platform that allows users to browse, order, and manage cars and car parts. The application also provides features for user registration, login, and managing user profiles. Administrators can manage cars, parts, and orders, and generate reports.
